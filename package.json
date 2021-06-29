@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "expect": "^27.0.6",
+    "webdriverio": "^7.7.4"
+  }
+}
